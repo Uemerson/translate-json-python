@@ -18,6 +18,8 @@ After installation, you can run the program, using for example:
 
 ```
 $ translate-json-cli -i input-path/example.json -o output-path/example-translated.json
+working on translations ...
+translated JSON file saved as output-path/example-translated.json
 ```
 
 To get the help, you can use the argument -h or --help, for example:
@@ -50,4 +52,6 @@ Now run the main.py script using python3, like that:
 
 ```
 $ python3 translate_json/main.py -i example.json -o example-translated.json
+working on translations ...
+translated JSON file saved as example-translated.json
 ```
