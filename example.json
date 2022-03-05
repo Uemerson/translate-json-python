@@ -1,0 +1,33 @@
+{
+  "hello-world": "Olá mundo!",
+  "number-one": 1,
+  "boolean": true,
+  "array-of-fruits": ["Banana", "Maçã", "Melão", "Pera", "Melancia"],
+  "array-of-objects": [
+    {
+      "index": 0,
+      "type": "Carro",
+      "description": "Um objeto do tipo carro"
+    },
+    {
+      "index": 1,
+      "type": "Mesa",
+      "description": "Um objeto do tipo mesa"
+    },
+    {
+      "index": 2,
+      "type": "Avião",
+      "description": "Um objeto do tipo avião"
+    }
+  ],
+  "peoples": {
+    "e863befd-24d7-4c86-933a-94789c9d6dba": {
+      "name": "Uemerson Pinheiro Junior",
+      "status": "Oi, eu sou um desenvolvedor python ❤"
+    },
+    "27c6762d-a23e-4074-8e38-42db12c3cfaa": {
+      "name": null,
+      "status": "Gosto muito de video-games, vamos conversar sobre ?"
+    }
+  }
+}
